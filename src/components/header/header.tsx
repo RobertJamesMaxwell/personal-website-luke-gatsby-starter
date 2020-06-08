@@ -2,7 +2,7 @@ import React from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import { Link } from "../link"
-import StarterLogo from "../../assets/svg/luke-logo.svg"
+import StarterLogo from "../../assets/svg/robert.svg"
 import { HeaderContainer, HeaderMenu } from "./style"
 
 export const Header = () => (
